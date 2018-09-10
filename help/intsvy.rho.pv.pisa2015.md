@@ -2,7 +2,7 @@
 
 ## Description
 
-An exact copy of the functionality for the intsvy.rho.pv but with the added capability to calculate standard errors
+An exact copy of the functionality in intsvy.rho.pv but with the added capability to calculate standard errors
 in the event of the configuration having a BRR design.
 
 For descriptions of the input parameters see help for the intsvy.rho.pv function.
