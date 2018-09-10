@@ -4,7 +4,7 @@ Maintainer: Cambridge Assessment, Assessment, Research and Development (ARD) <ca
 
 Authors: Matthew Carroll & Tom Benton
 
-This repository contains some add on functions for analysis of PISA data. 
+This repository contains some add-on functions for analysis of PISA data. 
 The functions draw heavily upon code written from  the existing R package *intsvy* by Caro and Biecek (2017).
 
 Rather than a full R package, this repository simply contains the code for the functions, and some documentation written in markdown 
