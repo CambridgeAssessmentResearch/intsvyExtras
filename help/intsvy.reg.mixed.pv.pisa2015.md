@@ -53,7 +53,7 @@ Argument      |Description
 ```r 
     #get functions
     library(intsvy)
-    source("https://upgitap001.ucles.internal/bentot/intsvyExtras/raw/master/functions/intsvy.reg.mixed.pv.pisa2015.R")
+    source("https://raw.githubusercontent.com/CambridgeAssessmentResearch/intsvyExtras/master/functions/intsvy.reg.mixed.pv.pisa2015.R")
 
     #load the PISA data set from local copy
     load("pisadat.Rdata")
